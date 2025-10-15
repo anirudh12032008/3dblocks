@@ -10,12 +10,27 @@ This is my journal of the design and building process of **3D model Block**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/518).
 
 
-## 10/15/2025 - Created my initial block and added 2 circles  
+## 10/15/2025 2:23 PM - Created my initial block and added 2 circles  
 
 
 Started my basic project! learned about rectangle and circular patterns in fusion and a bit more details about sketching tools
 
 Made a very small block right now and added 2 circles using the rectangle patterns tool and next i'll make 2 holes inside the block! also did shelling
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjMwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--a9dd77ac799c4396384de7a7f77729789b003443/image.png)
+  
+
+## 10/15/2025 2:36 PM - Added final touches  
+
+Added the holes for bottom for other blocks to fit! and added a cool texture of wood
+
+Kept in mind tolerances! Idk how much tolerance to keep so I kept it at 0.2 mm right now and for thickness I went with 1mm
+
+Played a bit with the fusion 360 render tab and tried to change some lights and material 
+
+![block v1.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjMwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--279f8a3b6cb8bb590d8255706634bffe4d8384b0/block%20v1.png)
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjMwNywicHVyIjoiYmxvYl9pZCJ9fQ==--2ab68df5ba3f727f890aa2363acf147c5a452674/image.png)
+
+
   
 
