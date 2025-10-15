@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **3D model Block**.  
+This is my journal of the design and building process of **20x40 mm Block**.  
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/518).
 
 
@@ -32,5 +32,13 @@ Played a bit with the fusion 360 render tab and tried to change some lights and 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjMwNywicHVyIjoiYmxvYl9pZCJ9fQ==--2ab68df5ba3f727f890aa2363acf147c5a452674/image.png)
 
 
+  
+
+## 10/15/2025 2:57 PM - finished shipping the project  
+
+Published it on Printables! tried posting on maker world but that requires a real life image of the model :(
+created a Bom and a very short readme, sliced it on bambu studio and created a 3mf file and this needs some supports too! but overall its coming in 4.16g
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjMxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--b97e24dfedc675ba4c603ca54131ab83f64270dd/image.png)
   
 
